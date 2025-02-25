@@ -2,7 +2,6 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <a href="https://www.linkedin.com/in/himazing/" target="blank"><img src="https://img.shields.io/github/followers/himanshukumar?label=Follow%20%40Himanshu&style=social" alt="Himanshu"  </p>
 
 - 🔭 I’m currently working on **MERN**
